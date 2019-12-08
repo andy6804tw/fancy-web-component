@@ -1,10 +1,11 @@
 // Global var
 let loaded=0;
-
-
+const statusText= document.getElementById('statusText');
+const loadStyle=document.getElementById('loadStyle');
+const preloader=document.getElementsByClassName('preloader')[0];
 const load=()=> {
-  document.getElementById('loadStyle').style.width=`${loaded}%`;
-  document.getElementById('statusText').innerText=`I'm ${loaded} % done!`;
+  loadStyle.style.width=`${loaded}%`;
+  statusText.innerText=`I'm ${loaded} % done!`;
   loaded < 100 ? loaded++ : doneLoading();
 }
 const doneLoading=()=> {
@@ -23,13 +24,27 @@ function fadeOut(el){
   })();
 };
 
+const animatePreloader=()=>{
+  let tick=0;
+  const stop=document.body.clientHeight/2;
+  setTimeout(() => {
+    animate=setInterval(function(){
+      preloader.style.marginTop=`-${tick}px`;
+      if(tick>=stop)
+        clearInterval(animate);
+      tick+=4;
+      console.log(tick)
+    },4)
+  }, 600);
+}
+
 const updateStatus=()=> {
-  document.getElementById('statusText').innerText='Lets get crazay !';
-  // this.loader.fadeOut();
-  fadeOut(document.getElementById('loadStyle'));
-  this.animatePreloader();
+  statusText.innerText='Lets get crazay !';
+  fadeOut(loadStyle);
+  animatePreloader();
 }
 
 
 let loading = setInterval(load, 20);
 
+console.log(document.body.clientHeight)
