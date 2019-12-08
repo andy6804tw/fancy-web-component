@@ -9,8 +9,27 @@ const load=()=> {
 }
 const doneLoading=()=> {
   clearInterval(loading);
-  // this.updateStatus();
+  updateStatus();
 }
+
+function fadeOut(el){
+  el.style.opacity = 1;
+  (function fade() {
+    if ((el.style.opacity -= .05) < 0) {
+      el.style.display = "none";
+    } else {
+      requestAnimationFrame(fade);
+    }
+  })();
+};
+
+const updateStatus=()=> {
+  document.getElementById('statusText').innerText='Lets get crazay !';
+  // this.loader.fadeOut();
+  fadeOut(document.getElementById('loadStyle'));
+  this.animatePreloader();
+}
+
 
 let loading = setInterval(load, 20);
 
