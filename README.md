@@ -11,8 +11,8 @@ All the projects are based on [Bootstrap4](http://startbootstrap.com/) framework
                 <a href="https://andy6804tw.github.io/fancy-web-component/page-preloader/">page-preloader</a>
             </td>
             <td>
-                <!-- <img src="SB admin/screenshot/demo.gif" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/SB admin">SB admin</a> -->
+                <img src="splash-fadein-text-with-bars/screenshot/demo.gif" width="300px"><br>
+                <a href="https://andy6804tw.github.io/fancy-web-component/splash-fadein-text-with-bars">splash-fadein-text-with-bars</a>
             </td>
             <td>
                 <!-- <img src="Sidebar Collapse/screenshot/demo.gif" width="300px"><br>
