@@ -8,15 +8,15 @@ All the projects are based on [Bootstrap4](http://startbootstrap.com/) framework
         <tr>
             <td>
                 <img src="page-preloader/screenshot/demo.gif" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/page-preloader/">page-preloader</a>
+                <a href="https://andy6804tw.github.io/fancy-web-component/page-preloader/">page-preloader <br/><br/></a>
             </td>
             <td>
                 <img src="splash-fadein-text-with-bars/screenshot/demo.gif" width="300px"><br>
                 <a href="https://andy6804tw.github.io/fancy-web-component/splash-fadein-text-with-bars">splash-fadein-text-with-bars</a>
             </td>
             <td>
-                <!-- <img src="Sidebar Collapse/screenshot/demo.gif" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/Sidebar Collapse">Sidebar Collapse</a> -->
+                <img src="splash-bouncy-text-animation-splitting/screenshot/demo.gif" width="300px"><br>
+                <a href="https://andy6804tw.github.io/fancy-web-component/splash-bouncy-text-animation-splitting">splash-bouncy-text-animation-splitting</a>
             </td>
         </tr>
         <tr>
