@@ -8,7 +8,7 @@ All the projects are based on [Bootstrap4](http://startbootstrap.com/) framework
         <tr>
             <td>
                 <img src="page-preloader/screenshot/demo.gif" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/page-preloader/">page-preloader <br/><br/></a>
+                <a href="https://andy6804tw.github.io/fancy-web-component/page-preloader/">page-preloader</a>
             </td>
             <td>
                 <img src="splash-fadein-text-with-bars/screenshot/demo.gif" width="300px"><br>
