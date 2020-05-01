@@ -21,8 +21,8 @@ All the projects are based on [Bootstrap4](http://startbootstrap.com/) framework
         </tr>
         <tr>
             <td>
-                <!-- <img src="fancy-dashboard/screenshot/demo.png" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/fancy-dashboard">fancy dashboard</a> -->
+                <img src="flying-card/screenshot/demo.gif" width="300px"><br>
+                <a href="https://andy6804tw.github.io/fancy-web-component/flying-card">flying-card</a>
              </td>
         </tr>
     </tbody>
