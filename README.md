@@ -8,25 +8,25 @@ All the projects are based on [Bootstrap4](http://startbootstrap.com/) framework
         <tr>
             <td>
                 <img src="page-preloader/screenshot/demo.gif" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/page-preloader/">page-preloader</a>
+                <a href="https://andy6804tw.github.io/fancy-web-component/page-preloader/" target="_blank">page-preloader</a>
             </td>
             <td>
                 <img src="splash-fadein-text-with-bars/screenshot/demo.gif" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/splash-fadein-text-with-bars">splash-fadein-text-with-bars</a>
+                <a href="https://andy6804tw.github.io/fancy-web-component/splash-fadein-text-with-bars" target="_blank">splash-fadein-text-with-bars</a>
             </td>
             <td>
                 <img src="splash-bouncy-text-animation-splitting/screenshot/demo.gif" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/splash-bouncy-text-animation-splitting">splash-bouncy-text-animation-splitting</a>
+                <a href="https://andy6804tw.github.io/fancy-web-component/splash-bouncy-text-animation-splitting" target="_blank">splash-bouncy-text-animation-splitting</a>
             </td>
         </tr>
         <tr>
             <td>
                 <img src="flying-card/screenshot/demo.gif" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/flying-card">flying-card</a>
+                <a href="https://andy6804tw.github.io/fancy-web-component/flying-card" target="_blank">flying-card</a>
              </td>
              <td>
                 <img src="auto-slider/screenshot/demo.gif" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/auto-slider">auto-slider</a>
+                <a href="https://andy6804tw.github.io/fancy-web-component/auto-slider" target="_blank">auto-slider</a>
              </td>
         </tr>
     </tbody>
