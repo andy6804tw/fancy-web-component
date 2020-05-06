@@ -24,6 +24,10 @@ All the projects are based on [Bootstrap4](http://startbootstrap.com/) framework
                 <img src="flying-card/screenshot/demo.gif" width="300px"><br>
                 <a href="https://andy6804tw.github.io/fancy-web-component/flying-card">flying-card</a>
              </td>
+             <td>
+                <img src="auto-slider/screenshot/demo.gif" width="300px"><br>
+                <a href="https://andy6804tw.github.io/fancy-web-component/auto-slider">auto-slider</a>
+             </td>
         </tr>
     </tbody>
 </table>
