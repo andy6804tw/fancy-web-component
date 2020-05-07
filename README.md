@@ -30,7 +30,7 @@ All the projects are based on [Bootstrap4](http://startbootstrap.com/) framework
              </td>
              <td>
                 <img src="animated-carousel/screenshot/demo.gif" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/auto-slider" target="_blank">animated-carousel</a>
+                <a href="https://andy6804tw.github.io/fancy-web-component/animated-carousel" target="_blank">animated-carousel</a>
              </td>
         </tr>
     </tbody>
