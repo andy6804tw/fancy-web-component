@@ -1,6 +1,6 @@
-gsap.registerPlugin(ScrollTrigger);
-gsap.registerPlugin(ScrollToPlugin);
-gsap.registerPlugin(SplitText);
+// gsap.registerPlugin(ScrollTrigger);
+// gsap.registerPlugin(ScrollToPlugin);
+// gsap.registerPlugin(SplitText);
 
 console.clear();
 
