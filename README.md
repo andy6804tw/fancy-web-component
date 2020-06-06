@@ -33,6 +33,12 @@ All the projects are based on [Bootstrap4](http://startbootstrap.com/) framework
                 <a href="https://andy6804tw.github.io/fancy-web-component/animated-carousel" target="_blank">animated-carousel</a>
              </td>
         </tr>
+        <tr>
+            <td>
+                <img src="scrolltrigger-parallax/screenshot/demo.gif" width="300px"><br>
+                <a href="https://andy6804tw.github.io/fancy-web-component/scrolltrigger-parallax" target="_blank">scrolltrigger-parallax</a>
+             </td>
+        </tr>
     </tbody>
 </table>
 
