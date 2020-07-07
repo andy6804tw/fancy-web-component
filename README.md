@@ -35,8 +35,8 @@ All the projects are based on [Bootstrap4](http://startbootstrap.com/) framework
         </tr>
         <tr>
             <td>
-                <img src="scrolltrigger-parallax/screenshot/demo.gif" width="300px"><br>
-                <a href="https://andy6804tw.github.io/fancy-web-component/scrolltrigger-parallax" target="_blank">scrolltrigger-parallax</a>
+                <img src="google-font-animation/screenshot/demo.gif" width="300px"><br>
+                <a href="https://andy6804tw.github.io/fancy-web-component/google-font-animation" target="_blank">google-font-animation</a>
              </td>
         </tr>
     </tbody>
